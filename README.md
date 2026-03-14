@@ -2,7 +2,7 @@
 A comprehensive Python-based CLI application designed to manage staff, customers, and vehicle fleets for a car rental service. This project was developed as part of a Programming with Python module during a Diploma in Information and Communications Technology (with a specialism in Software Engineering).
 
 ## 📌 Project Overview
-The system provides a centralized platform for three distinct user roles—Managers, Customer Service Staff, and Car Service Staff—to perform specific administrative and operational tasks. The application uses Object-Oriented Programming (OOP) principles to handle customer data and manages data persistence through text file exports.
+The system provides a centralized platform for three distinct user roles — Managers, Customer Service Staff, and Car Service Staff — to perform specific administrative and operational tasks. The application handles customer data and manages data persistence through text file exports.
 
 ## 🛠️ Features
 ### 1. Manager Module
@@ -44,6 +44,7 @@ Prerequisites: Ensure you have Python 3.x installed on your machine.
 
 Bash
 git clone https://github.com/wongzoey/car-rental-system.git
+
 Execute the Script:
 Navigate to the project folder and run:
 
